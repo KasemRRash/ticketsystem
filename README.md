@@ -11,6 +11,11 @@ Dies ist das Semesterprojekt unseres Teams im Modul **Software Engineering I** a
 - **Rollen:** Gast, Kunde, Agent, Ticketbearbeiter
 - **Funktionen:** Ticket erstellen, bearbeiten, sperren, schließen, kategorisieren, priorisieren
 
+
+**Use-Case-Diagramm**
+(diagramme/use-case.png)  
+
+
 ## Tech-Stack
 
 - UML-Modellierung mit **UMLet**
