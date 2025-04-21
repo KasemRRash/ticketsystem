@@ -13,7 +13,8 @@ Dies ist das Semesterprojekt unseres Teams im Modul **Software Engineering I** a
 
 
 **Use-Case-Diagramm**
-[`diagramme/klassendiagramm.png`](diagramme/klassendiagramm.png) 
+![Use Case](diagramme/use-case.png)
+ 
 
 ## Tech-Stack
 
